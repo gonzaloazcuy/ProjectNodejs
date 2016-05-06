@@ -1,0 +1,10 @@
+{
+  "name": "project-nodejs",
+  "version": "0.0.0",
+  "description": "ProjectNodejs",
+  "main": "server.js",
+  "author": {
+    "name": "gonzalo",
+    "email": ""
+  }
+}
